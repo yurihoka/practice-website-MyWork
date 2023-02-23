@@ -77,3 +77,16 @@ Mainvisual
     height: 420px;
     object-fit: cover;
 }
+
+/*-------------------------------------------
+About
+-------------------------------------------*/
+#about ul {
+    margin-bottom: 30px;
+}
+#about li:first-child {
+    margin-bottom: 30px;
+}
+#about p {
+    text-align: justify;
+}
